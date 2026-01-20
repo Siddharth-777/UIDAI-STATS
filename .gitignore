@@ -54,3 +54,6 @@ TestResult.xml
 nunit-*.xml
 
 data
+state_csv
+input_csv
+venv
